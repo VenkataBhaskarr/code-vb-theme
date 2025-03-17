@@ -1,7 +1,7 @@
 {
   "name": "dark-theme-ibc",
   "displayName": "dark-theme-ibc",
-  "description": "This theme is heavily inspired by cursor dark theme with slight modifications that felt better to me.",
+  "description": "This theme is inspired from cursor dark theme modifications that felt better to me.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
