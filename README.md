@@ -12,6 +12,12 @@
 
 So if you want to use this theme in your VS Code just follow these steps to get up and running. 
 
-1. Go to themes/dark-theme-ibc-color-theme.json in this repo 
+> **Remeber this step will override your current VS code theme config**
+1.  Open VS CODE and in settings search for Workbench: Color Customizations and then edit the settings.json as below mentioned steps.
+2.  Now open the themes/dark-theme-ibc-color-theme.json file in this current repo and copy the CONTENTS of colors and paste it in the contents of "workbench.colorCustomizations" in the settings.json in your VS CODE.
+3.  Now copy the "tokenColors" from themes/dark-theme-ibc-color-theme.json file in the current repo and find the "editor.tokenColorCustomizations" and it contains the "textMateRules" key paste the contents in it.
 
-# **Enjoy! Happy Coding 😋**
+  
+BOOM ENJOY THE CHANGES.
+
+# **Happy Coding😋**
